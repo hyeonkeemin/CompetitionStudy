@@ -1,2 +1,2 @@
-# DaconStudy
-for dacon study
+# Study
+for competition study
